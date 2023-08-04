@@ -6,7 +6,7 @@
 <!-- [![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true) -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2002&pause=100&color=1C5483&multiline=true&width=500&height=80&lines=Fardin+Abbasi;Researcher+%7C+Teaching+Assistant+%7C+EE+Student;AI+%7C+Fintech+%7C+Decision+Making)](https://git.io/typing-svg)
 ## 👨🏻‍💻 &nbsp;About Me
 I'm Fardin Abbasi, now a senior student in EE at the [University of Tehran](https://ut.ac.ir/en). I'm also studying Management as a minor program. I've so far had a very pleasing time during my undergraduate studies, and am currently seeking more opportunities to grow and influence my community.
 
