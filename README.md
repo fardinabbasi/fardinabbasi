@@ -13,6 +13,14 @@ I'm Fardin Abbasi, now a senior student in EE at the [University of Tehran](http
 ## 🚀 &nbsp;Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex&perline=10)](https://skillicons.dev)
 
+<details>
+<summary>📈 Stats</summary>
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinabbasi&theme=nord_bright) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardinabbasi&theme=nord_bright) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardinabbasi&theme=nord_bright)
 
 <!--
 **shabihish/shabihish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
