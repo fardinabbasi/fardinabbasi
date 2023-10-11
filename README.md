@@ -5,7 +5,7 @@
 **I'm Fardin Abbasi, a senior EE student at the [University of Tehran](https://ut.ac.ir/en). I'm also studying Management as a minor program. I've had a very pleasing time during my undergraduate studies, and I am currently seeking more opportunities to grow and influence my community.**
 
 ## 🚀 &nbsp;Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6)](https://skillicons.dev)
 
 <details>
 <summary>📈 Stats</summary>
