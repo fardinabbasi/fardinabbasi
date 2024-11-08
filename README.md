@@ -11,26 +11,3 @@
     <img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6" />
   </a>
 </p>
-<details>
-<summary>📈 Stats</summary>
-<br>
-
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinabbasi&theme=nord_bright) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardinabbasi&theme=nord_bright) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardinabbasi&theme=nord_bright) -->
-<img src="https://myreadme.vercel.app/api/embed/fardinabbasi?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-<!--
-**shabihish/shabihish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
